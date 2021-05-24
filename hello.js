@@ -7,7 +7,7 @@ console.log(sum)
 console.log(util)
 
 //2
-//const name = "mike"
+const name = "mike"
 //console.log(name)
 //1.
 // const fs = require('fs')5
